@@ -1,2 +1,2 @@
 # CryptographicAlgo
-Text Encryption using Cryptographic algorithms
+Text Encryption using various Cryptographic algorithms
